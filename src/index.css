@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    margin: 0;
-    width: 100vw;
-    height: 100vh;
+.ant-table-row {
+  background: rgba(243, 207, 243, 0.667);
+}
+body {
+  margin: 0;
 }
